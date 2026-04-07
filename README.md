@@ -1,2 +1,2 @@
 # fly.io
-solutions for fly.io by screenager
+solutions for fly.io
